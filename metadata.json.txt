@@ -1,0 +1,6 @@
+{
+    "name": "KSR Token",
+    "symbol": "KSR",
+    "description": "KSR token from Solana Making a Token guide.",
+    "image": "https://ibb.co/3z2CHxw"
+  }
